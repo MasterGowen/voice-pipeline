@@ -11,7 +11,7 @@ pipx install .
 Или из текущей директории:
 
 ```bash
-pipx install git+https://github.com/your-username/tts-pipeline.git
+pipx install git+https://github.com/MasterGowen/tts-pipeline.git
 ```
 
 ## Использование
