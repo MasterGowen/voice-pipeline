@@ -1,0 +1,10 @@
+{
+  "api_key": "sk-or-v1-xxxxxxxxxxxxxxxxxxxxxxxx",
+  "base_url": "https://openrouter.ai/api/v1",
+  "model": "google/gemini-3.1-flash-tts-preview",
+  "output_dir": "./output",
+  "retry_attempts": 3,
+  "retry_delay_sec": 5,
+  "http_referer": "https://github.com/your-username/tts-pipeline",
+  "app_title": "Gemini TTS Pipeline"
+}
